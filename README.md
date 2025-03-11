@@ -58,7 +58,7 @@ Just pre-pend make with tb, for instance
 
 ### Debugging
 
-Conntect an Olimex Programmer (Arm-usb-Tiny-h) to the esp debug port on the deck. Make sure its powered.
+Connect an Olimex Programmer (Arm-usb-Tiny-h) to the esp debug port on the deck. Make sure its powered.
 
 To start an openocd server 
 ```
